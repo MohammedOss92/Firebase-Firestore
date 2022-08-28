@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "639236196669",
+    "project_id": "fir-firestore-1c0e7",
+    "storage_bucket": "fir-firestore-1c0e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639236196669:android:cd085d1ae2019bae63dd54",
+        "android_client_info": {
+          "package_name": "com.sarrawi.firebasefirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639236196669-39rfkcn842dgdp8qu5f002qhu230kftc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRq73NM0WCZDOkO9d1WpsXd_t7uJdcXoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639236196669-39rfkcn842dgdp8qu5f002qhu230kftc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
